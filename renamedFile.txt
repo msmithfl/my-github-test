@@ -1,1 +1,3 @@
 i made a change
+
+this is a conflicting change
